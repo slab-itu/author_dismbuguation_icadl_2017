@@ -1,1 +1,1 @@
-This code is to reproduce the results of paper entitled "Author Name Disambiguation on Highly Ambiguous Data of Chinese Author Names using Supervised Learning Approaches" submitted to ICADL 2017 conference
+This code is to reproduce the results of paper entitled "Author Name Disambiguation on Highly Ambiguous Data of Chinese Authors using Supervised Learning Approaches" submitted to ICADL 2017 conference
